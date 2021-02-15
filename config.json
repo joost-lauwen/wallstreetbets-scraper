@@ -1,0 +1,9 @@
+{
+  "login": {
+    "client_id": "<INSERT_CLIENTID>",
+    "client_secret": "<INSERT_CLIENT_SECRET>",
+    "username": "<INSERT_USERNAME>",
+    "password": "<INSERT_PASSWORD>",
+    "user_agent": "<INSERT_USER_AGENT>"
+  }
+}
